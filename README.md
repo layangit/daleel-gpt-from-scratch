@@ -1,5 +1,6 @@
 # دليل | Daleel
 دليلك للمعرفة!
+
 Website Link: https://layangit.github.io/daleel-gpt-from-scratch/
 ## Arabic GPT From Scratch for Explaining AI Concepts
 
