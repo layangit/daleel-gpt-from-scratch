@@ -1,0 +1,22 @@
+# Python
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# Large data
+data/pretrain/data.txt
+data/pretrain/
+data/finetune/*.json
+data/finetune/instruction-data.json
+
+# Checkpoints
+checkpoints/
+*.pt
+*.pth
+*.bin
+
+# Results
+results/
+
+# macOS
+.DS_Store
